@@ -1,0 +1,6 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Disallow:
+
+# Specify the sitemap location
+Sitemap: https://kallolwave.github.io/Kallol/sitemap.xml
