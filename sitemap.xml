@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <!-- Main page -->
+
+  <!-- Main site -->
   <url>
     <loc>https://kallolwave.github.io/Kallol/</loc>
   </url>
@@ -48,5 +48,18 @@
   <url>
     <loc>https://x.com/HelixOriginatr2</loc>
   </url>
+
+  <!-- Key DOI publications for indexing -->
+  <url>
+    <loc>https://zenodo.org/record/17139551</loc>
+  </url>
+  <url>
+    <loc>https://zenodo.org/record/17212357</loc>
+  </url>
+  <url>
+    <loc>https://zenodo.org/record/16714489</loc>
+  </url>
+
+  <!-- More Zenodo/SSRN publications can be added here following the same format -->
 
 </urlset>
