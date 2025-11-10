@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Main page -->
+  <url>
+    <loc>https://kallolwave.github.io/Kallol/</loc>
+  </url>
+
+  <!-- Motivation OS -->
+  <url>
+    <loc>https://kallolwave.github.io/motivation-os/</loc>
+  </url>
+
+  <!-- 4-Step Wave Pages -->
+  <url>
+    <loc>https://kallolwave.github.io/Kallol/observation/</loc>
+  </url>
+  <url>
+    <loc>https://kallolwave.github.io/Kallol/creation/</loc>
+  </url>
+  <url>
+    <loc>https://kallolwave.github.io/Kallol/dissemination/</loc>
+  </url>
+  <url>
+    <loc>https://kallolwave.github.io/Kallol/reflection/</loc>
+  </url>
+
+  <!-- Verified Research -->
+  <url>
+    <loc>https://zenodo.org/records/15210390</loc>
+  </url>
+  <url>
+    <loc>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5315510</loc>
+  </url>
+  <url>
+    <loc>https://scholar.google.com/citations?user=ixmIlRAAAAAJ&hl=en</loc>
+  </url>
+  <url>
+    <loc>https://medium.com/@kallolchitralimagicpen</loc>
+  </url>
+
+  <!-- GitHub projects -->
+  <url>
+    <loc>https://github.com/HelixOriginator</loc>
+  </url>
+
+  <!-- Social Media -->
+  <url>
+    <loc>https://x.com/HelixOriginatr2</loc>
+  </url>
+
+</urlset>
