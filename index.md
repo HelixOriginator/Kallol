@@ -1,7 +1,7 @@
 ---
 title: "Kallol"
 subtitle: "The Kallol Wave Framework — Knowledge, Innovation, and Resilience"
-description: "Kallol is a living intellectual framework by independent researcher Kallol Chakrabarti. It unites knowledge, ethics, and leadership into a self-renewing system for those who rise stronger."
+description: "Kallol is a living intellectual framework by independent researcher Kallol Chakrabarti. It unites knowledge creation, ethical governance, and leadership into a self-renewing system for those who rise stronger."
 keywords: "Kallol, Kallol Chakrabarti, Helix Originator, Kallol Wave Framework, Independent Researcher, Knowledge, Innovation, Governance, Ethics, Resilience"
 ---
 
@@ -83,8 +83,7 @@ The **Kallol Concept** turns adversity into motion — helping individuals and i
 ## 🕊️ Join the Wave
 
 Follow updates, share ideas, and contribute:  
-[X: @HelixOriginator](https://x.com/helixoriginator) · #KallolWave  
-[Open Discussions on GitHub](https://github.com/HelixOriginator/Kallol/discussions)
+[X: @HelixOriginatr2](https://x.com/HelixOriginatr2) · #KallolWave
 
 ---
 
